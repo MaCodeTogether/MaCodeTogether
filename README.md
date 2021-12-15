@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently learn coding.
+I’m currently learn using GitHub.
 
 <!--
 **MaCodeTogether/macodetogether** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
